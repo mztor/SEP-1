@@ -1,0 +1,238 @@
+2025-05-23 03:58:10,409 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.214:5000
+2025-05-23 03:58:10,410 [33mPress CTRL+C to quit[0m
+2025-05-23 03:58:10,413  * Restarting with stat
+2025-05-23 03:58:11,075  * Debugger is active!
+2025-05-23 03:58:11,091  * Debugger PIN: 931-366-224
+2025-05-23 03:58:16,046 127.0.0.1 - - [23/May/2025 03:58:16] "GET / HTTP/1.1" 200 -
+2025-05-23 03:58:16,667 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-23 03:58:16,682 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-23 03:58:16,695 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-23 03:58:16,707 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-23 03:58:16,711 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-23 03:58:16,893 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-23 03:58:16,916 127.0.0.1 - - [23/May/2025 03:58:16] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-05-23 03:58:17,097 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,105 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/css/style.css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,112 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/images/logo.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,118 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/icon-128x128.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,121 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/icon-384x384.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,123 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,127 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/js/app.js HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,131 127.0.0.1 - - [23/May/2025 03:58:17] "GET / HTTP/1.1" 200 -
+2025-05-23 03:58:17,132 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/images/favicon.jpg HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,144 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/mobile_screenshot.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,159 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/icon-192x192.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,176 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/desktop_screenshot.png HTTP/1.1[0m" 404 -
+2025-05-23 03:58:17,180 127.0.0.1 - - [23/May/2025 03:58:17] "[33mGET /static/js/static/icons/icon-512x512.png HTTP/1.1[0m" 404 -
+2025-05-23 04:01:55,113 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.214:5000
+2025-05-23 04:01:55,113 [33mPress CTRL+C to quit[0m
+2025-05-23 04:01:55,114  * Restarting with stat
+2025-05-23 04:01:55,342  * Debugger is active!
+2025-05-23 04:01:55,343  * Debugger PIN: 931-366-224
+2025-05-23 04:01:57,124 127.0.0.1 - - [23/May/2025 04:01:57] "GET / HTTP/1.1" 200 -
+2025-05-23 04:01:57,441 127.0.0.1 - - [23/May/2025 04:01:57] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-23 04:01:57,442 127.0.0.1 - - [23/May/2025 04:01:57] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-23 04:01:57,446 127.0.0.1 - - [23/May/2025 04:01:57] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-23 04:01:57,465 127.0.0.1 - - [23/May/2025 04:01:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-23 04:01:57,482 127.0.0.1 - - [23/May/2025 04:01:57] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-23 09:36:21,785 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.151:5000
+2025-05-23 09:36:21,785 [33mPress CTRL+C to quit[0m
+2025-05-23 09:36:21,788  * Restarting with stat
+2025-05-23 09:36:22,094  * Debugger is active!
+2025-05-23 09:36:22,155  * Debugger PIN: 993-890-934
+2025-05-23 09:36:30,545 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.151:5000
+2025-05-23 09:36:30,546 [33mPress CTRL+C to quit[0m
+2025-05-23 09:36:30,546  * Restarting with stat
+2025-05-23 09:36:30,852  * Debugger is active!
+2025-05-23 09:36:30,852  * Debugger PIN: 993-890-934
+2025-05-23 09:36:34,287 127.0.0.1 - - [23/May/2025 09:36:34] "GET / HTTP/1.1" 200 -
+2025-05-23 09:36:34,678 127.0.0.1 - - [23/May/2025 09:36:34] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-23 09:36:34,687 127.0.0.1 - - [23/May/2025 09:36:34] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-23 09:36:34,696 127.0.0.1 - - [23/May/2025 09:36:34] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-23 09:36:34,697 127.0.0.1 - - [23/May/2025 09:36:34] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-23 09:36:34,699 127.0.0.1 - - [23/May/2025 09:36:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-23 09:37:06,085 127.0.0.1 - - [23/May/2025 09:37:06] "GET /form.html HTTP/1.1" 200 -
+2025-05-23 09:37:06,176 127.0.0.1 - - [23/May/2025 09:37:06] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-23 09:37:06,183 127.0.0.1 - - [23/May/2025 09:37:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-23 09:37:06,186 127.0.0.1 - - [23/May/2025 09:37:06] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-23 09:37:06,195 127.0.0.1 - - [23/May/2025 09:37:06] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-05-23 09:37:06,292 127.0.0.1 - - [23/May/2025 09:37:06] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:36:13,025 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:36:13,025 [33mPress CTRL+C to quit[0m
+2025-05-26 02:36:13,026  * Restarting with stat
+2025-05-26 02:36:13,347  * Debugger is active!
+2025-05-26 02:36:13,357  * Debugger PIN: 103-810-493
+2025-05-26 02:36:19,017 127.0.0.1 - - [26/May/2025 02:36:19] "GET / HTTP/1.1" 200 -
+2025-05-26 02:36:19,374 127.0.0.1 - - [26/May/2025 02:36:19] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-26 02:36:19,423 127.0.0.1 - - [26/May/2025 02:36:19] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-26 02:36:19,453 127.0.0.1 - - [26/May/2025 02:36:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:36:19,458 127.0.0.1 - - [26/May/2025 02:36:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:36:19,466 127.0.0.1 - - [26/May/2025 02:36:19] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-26 02:36:31,901 127.0.0.1 - - [26/May/2025 02:36:31] "GET /form.html HTTP/1.1" 200 -
+2025-05-26 02:36:31,983 127.0.0.1 - - [26/May/2025 02:36:31] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:36:31,989 127.0.0.1 - - [26/May/2025 02:36:31] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:36:32,067 127.0.0.1 - - [26/May/2025 02:36:32] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-26 02:36:32,070 127.0.0.1 - - [26/May/2025 02:36:32] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-26 02:36:32,073 127.0.0.1 - - [26/May/2025 02:36:32] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-26 02:36:32,138 127.0.0.1 - - [26/May/2025 02:36:32] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-05-26 02:37:06,838 127.0.0.1 - - [26/May/2025 02:37:06] "[33mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 404 -
+2025-05-26 02:37:17,018 127.0.0.1 - - [26/May/2025 02:37:17] "POST /form.html HTTP/1.1" 200 -
+2025-05-26 02:37:17,162 127.0.0.1 - - [26/May/2025 02:37:17] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:37:17,358 127.0.0.1 - - [26/May/2025 02:37:17] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:37:17,381 127.0.0.1 - - [26/May/2025 02:37:17] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-26 02:37:17,388 127.0.0.1 - - [26/May/2025 02:37:17] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-26 02:37:17,397 127.0.0.1 - - [26/May/2025 02:37:17] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-26 02:37:17,594 127.0.0.1 - - [26/May/2025 02:37:17] "[33mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 404 -
+2025-05-26 02:40:55,609  * Detected change in '/workspaces/SEP-1/main.py', reloading
+2025-05-26 02:40:55,654  * Restarting with stat
+2025-05-26 02:41:17,044 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:41:17,044 [33mPress CTRL+C to quit[0m
+2025-05-26 02:41:17,045  * Restarting with stat
+2025-05-26 02:41:17,313  * Debugger is active!
+2025-05-26 02:41:17,313  * Debugger PIN: 103-810-493
+2025-05-26 02:41:17,812 127.0.0.1 - - [26/May/2025 02:41:17] "GET / HTTP/1.1" 200 -
+2025-05-26 02:41:18,181 127.0.0.1 - - [26/May/2025 02:41:18] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-26 02:41:18,217 127.0.0.1 - - [26/May/2025 02:41:18] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-26 02:41:18,256 127.0.0.1 - - [26/May/2025 02:41:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:41:18,259 127.0.0.1 - - [26/May/2025 02:41:18] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:41:18,264 127.0.0.1 - - [26/May/2025 02:41:18] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-26 02:41:19,607 127.0.0.1 - - [26/May/2025 02:41:19] "[33mPOST /play HTTP/1.1[0m" 404 -
+2025-05-26 02:41:19,676 127.0.0.1 - - [26/May/2025 02:41:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 02:42:06,125  * Detected change in '/workspaces/SEP-1/main.py', reloading
+2025-05-26 02:42:06,178  * Restarting with stat
+2025-05-26 02:42:06,451  * Debugger is active!
+2025-05-26 02:42:06,451  * Debugger PIN: 103-810-493
+2025-05-26 02:42:09,001 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:42:09,001 [33mPress CTRL+C to quit[0m
+2025-05-26 02:42:09,002  * Restarting with stat
+2025-05-26 02:42:09,261  * Debugger is active!
+2025-05-26 02:42:09,261  * Debugger PIN: 103-810-493
+2025-05-26 02:42:10,788 127.0.0.1 - - [26/May/2025 02:42:10] "GET / HTTP/1.1" 200 -
+2025-05-26 02:42:10,876 127.0.0.1 - - [26/May/2025 02:42:10] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:42:10,878 127.0.0.1 - - [26/May/2025 02:42:10] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:42:10,881 127.0.0.1 - - [26/May/2025 02:42:10] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-05-26 02:42:10,887 127.0.0.1 - - [26/May/2025 02:42:10] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-05-26 02:42:10,974 127.0.0.1 - - [26/May/2025 02:42:10] "GET /static/js/serviceWorker.js HTTP/1.1" 200 -
+2025-05-26 02:42:12,249 127.0.0.1 - - [26/May/2025 02:42:12] "[33mPOST /play HTTP/1.1[0m" 404 -
+2025-05-26 02:42:12,308 127.0.0.1 - - [26/May/2025 02:42:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 02:45:12,134 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:45:12,134 [33mPress CTRL+C to quit[0m
+2025-05-26 02:45:12,134  * Restarting with stat
+2025-05-26 02:45:12,395  * Debugger is active!
+2025-05-26 02:45:12,396  * Debugger PIN: 103-810-493
+2025-05-26 02:45:14,108 127.0.0.1 - - [26/May/2025 02:45:14] "GET / HTTP/1.1" 200 -
+2025-05-26 02:45:14,388 127.0.0.1 - - [26/May/2025 02:45:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-05-26 02:45:14,417 127.0.0.1 - - [26/May/2025 02:45:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 02:45:14,450 127.0.0.1 - - [26/May/2025 02:45:14] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:14,458 127.0.0.1 - - [26/May/2025 02:45:14] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:14,462 127.0.0.1 - - [26/May/2025 02:45:14] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:15,551 The CSRF token is missing.
+2025-05-26 02:45:15,552 127.0.0.1 - - [26/May/2025 02:45:15] "[31m[1mPOST /play.html HTTP/1.1[0m" 400 -
+2025-05-26 02:45:27,854 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:45:27,855 [33mPress CTRL+C to quit[0m
+2025-05-26 02:45:27,855  * Restarting with stat
+2025-05-26 02:45:28,105  * Debugger is active!
+2025-05-26 02:45:28,105  * Debugger PIN: 103-810-493
+2025-05-26 02:45:40,567 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:45:40,567 [33mPress CTRL+C to quit[0m
+2025-05-26 02:45:40,568  * Restarting with stat
+2025-05-26 02:45:40,812  * Debugger is active!
+2025-05-26 02:45:40,813  * Debugger PIN: 103-810-493
+2025-05-26 02:45:42,708 127.0.0.1 - - [26/May/2025 02:45:42] "GET / HTTP/1.1" 200 -
+2025-05-26 02:45:42,923 127.0.0.1 - - [26/May/2025 02:45:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:45:42,940 127.0.0.1 - - [26/May/2025 02:45:42] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:42,945 127.0.0.1 - - [26/May/2025 02:45:42] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:43,103 127.0.0.1 - - [26/May/2025 02:45:43] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:45:43,111 127.0.0.1 - - [26/May/2025 02:45:43] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:45:43,160 127.0.0.1 - - [26/May/2025 02:45:43] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-05-26 02:45:45,608 The CSRF token is missing.
+2025-05-26 02:45:45,608 127.0.0.1 - - [26/May/2025 02:45:45] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-05-26 02:46:23,862 127.0.0.1 - - [26/May/2025 02:46:23] "GET / HTTP/1.1" 200 -
+2025-05-26 02:46:24,021 127.0.0.1 - - [26/May/2025 02:46:24] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:24,022 127.0.0.1 - - [26/May/2025 02:46:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 02:46:24,025 127.0.0.1 - - [26/May/2025 02:46:24] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-05-26 02:46:24,147 127.0.0.1 - - [26/May/2025 02:46:24] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:24,149 127.0.0.1 - - [26/May/2025 02:46:24] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:45,051 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:46:45,051 [33mPress CTRL+C to quit[0m
+2025-05-26 02:46:45,052  * Restarting with stat
+2025-05-26 02:46:45,304  * Debugger is active!
+2025-05-26 02:46:45,305  * Debugger PIN: 103-810-493
+2025-05-26 02:46:46,618 127.0.0.1 - - [26/May/2025 02:46:46] "GET / HTTP/1.1" 200 -
+2025-05-26 02:46:46,697 127.0.0.1 - - [26/May/2025 02:46:46] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:46:46,700 127.0.0.1 - - [26/May/2025 02:46:46] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:46,702 127.0.0.1 - - [26/May/2025 02:46:46] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:46,708 127.0.0.1 - - [26/May/2025 02:46:46] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:46:46,789 127.0.0.1 - - [26/May/2025 02:46:46] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:46:46,844 127.0.0.1 - - [26/May/2025 02:46:46] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-05-26 02:46:48,250 The CSRF token is missing.
+2025-05-26 02:46:48,250 127.0.0.1 - - [26/May/2025 02:46:48] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-05-26 02:47:51,678  * Detected change in '/workspaces/SEP-1/main.py', reloading
+2025-05-26 02:47:51,727  * Restarting with stat
+2025-05-26 02:47:51,996  * Debugger is active!
+2025-05-26 02:47:51,996  * Debugger PIN: 103-810-493
+2025-05-26 02:47:57,118 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:47:57,118 [33mPress CTRL+C to quit[0m
+2025-05-26 02:47:57,119  * Restarting with stat
+2025-05-26 02:47:57,416  * Debugger is active!
+2025-05-26 02:47:57,417  * Debugger PIN: 103-810-493
+2025-05-26 02:47:58,917 127.0.0.1 - - [26/May/2025 02:47:58] "GET / HTTP/1.1" 200 -
+2025-05-26 02:47:58,987 127.0.0.1 - - [26/May/2025 02:47:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 02:47:58,992 127.0.0.1 - - [26/May/2025 02:47:58] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-05-26 02:47:59,020 127.0.0.1 - - [26/May/2025 02:47:59] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:47:59,022 127.0.0.1 - - [26/May/2025 02:47:59] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:47:59,098 127.0.0.1 - - [26/May/2025 02:47:59] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:47:59,141 127.0.0.1 - - [26/May/2025 02:47:59] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2025-05-26 02:48:00,689 127.0.0.1 - - [26/May/2025 02:48:00] "[33mGET /play.html HTTP/1.1[0m" 404 -
+2025-05-26 02:48:00,739 127.0.0.1 - - [26/May/2025 02:48:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 02:48:19,043 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.254:5000
+2025-05-26 02:48:19,043 [33mPress CTRL+C to quit[0m
+2025-05-26 02:48:19,043  * Restarting with stat
+2025-05-26 02:48:19,289  * Debugger is active!
+2025-05-26 02:48:19,289  * Debugger PIN: 103-810-493
+2025-05-26 02:48:24,566 127.0.0.1 - - [26/May/2025 02:48:24] "GET / HTTP/1.1" 200 -
+2025-05-26 02:48:24,642 127.0.0.1 - - [26/May/2025 02:48:24] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-05-26 02:48:24,643 127.0.0.1 - - [26/May/2025 02:48:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-26 02:48:24,646 127.0.0.1 - - [26/May/2025 02:48:24] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-05-26 02:48:24,649 127.0.0.1 - - [26/May/2025 02:48:24] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-05-26 02:48:24,651 127.0.0.1 - - [26/May/2025 02:48:24] "[36mGET /static/js/serviceWorker.js HTTP/1.1[0m" 304 -
+2025-05-26 02:48:26,241 127.0.0.1 - - [26/May/2025 02:48:26] "[33mGET /play.html HTTP/1.1[0m" 404 -

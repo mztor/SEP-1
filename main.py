@@ -61,6 +61,9 @@ def root():
 def index():
     return render_template("/index.html")
 
+# @app.route("/play.html", methods=["POST","GET"])
+# def play():
+#     return render_template("/play.html")
 
 @app.route("/privacy.html", methods=["GET"])
 def privacy():
