@@ -5,3 +5,9 @@
 -- INSERT INTO id7-tusers(username,password) VALUES ("","");
 
 -- SELECT * FROM extension;
+
+--INSERT INTO verses (id, verse, book, chapter, verse_number) VALUES(2, "Hallelujah! Blessed is the man who fears Jehovah, who delights greatly in His commandments.", "Psalms",112,1);
+
+
+--ALTER TABLE verses ADD category TEXT;
+--UPDATE verses SET category = "5-6" WHERE id = "2";

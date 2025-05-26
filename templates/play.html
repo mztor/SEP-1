@@ -1,0 +1,31 @@
+{% extends 'layout.html' %} {% block content %}
+<!-- Retrieve bible verse from the database and blank out a word -->
+
+<div class="container">
+  <div class="row">
+    <h1 class="display-1">Play Game</h1>
+  </div>
+
+  <div class="row">
+    <form action="/play.html" method="POST" class="box">
+      <p>{{ game_verse }}</p>
+      <input type="hidden" name="game_verse" value="{{ game_verse }}" />
+      <p>
+        Your answer:
+        <input
+          type="text"
+          name="answer"
+          id="answer"
+          placeholder="Type your answer here"
+        />
+        <input type="hidden" name="actual_answer" value="{{ answer }}" />
+        <button class="btn btn-primary" id="submit-answer">Submit</button>
+      </p>
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+      {% if alert_message == "incorrect" %}
+      <p>Incorrect</p>
+      {% endif %}
+    </form>
+  </div>
+</div>
+{% endblock %}
